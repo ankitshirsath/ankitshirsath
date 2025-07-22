@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - Best practices for .NET development
 - 📫 How to reach me: ...-
 -  **Email:** [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ankitshirsath](www.linkedin.com/in/ankit-shirsath
-
-)  
-
+- **LinkedIn:** [linkedin.com/in/ankitshirsath](www.linkedin.com/in/ankit-shirsath)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
