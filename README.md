@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me aboutC#,
 - ASP.NET Core, MVC, Entity Framework  
-- SQL Queries, Stored Procedures, and Triggers  
+- SQL Queries, Stored Procedures, and Sql View , Join  
 - REST APIs, AJAX, jQuery, and Bootstrap UI  
 - Best practices for .NET development
 - 📫 How to reach me: ...-
