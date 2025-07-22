@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - REST APIs, AJAX, jQuery, and Bootstrap UI  
 - Best practices for .NET development
 - 📫 How to reach me: ...-
--  **Email:** [ankitshirsath123@gmail.com](mailto:ankitshirsath123@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ankitshirsath](https://linkedin.com/in/ankitshirsath)  
+-  **Email:** [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ankitshirsath](www.linkedin.com/in/ankit-shirsath
+
+)  
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
