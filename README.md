@@ -1,23 +1,32 @@
-## 👋 Hey, I'm Ankit Shirsath!
-
-✨ **Software Developer | .NET Enthusiast | Problem Solver** ✨  
-
-Welcome to my GitHub profile! This repository is special because its `README.md` appears on my profile. Here’s everything you need to know about me:
+<p align="center" style="background-color:#000000; color:#00FF00; padding:20px; font-family:monospace; font-size:16px;">
+  👋 Hey, I'm <strong>Ankit Shirsath</strong>!<br><br>
+  ✨ Software Developer | .NET Enthusiast | Problem Solver ✨<br><br>
+  Welcome to my GitHub profile!<br>
+  This repository is special because its <code>README.md</code> appears on my profile.
+</p>
 
 ---
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "**Broadsy Technologies Pvt Ltd.**"
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on  **.NET Core open-source projects**   **Transport ERP solutions** 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me aboutC#,
-- ASP.NET Core, MVC, Entity Framework  
-- SQL Queries, Stored Procedures, and Sql View , Join  
-- REST APIs, AJAX, jQuery, and Bootstrap UI  
-- Best practices for .NET development
-- 📫 How to reach me: ...-
--  **Email:** [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ankitshirsath](www.linkedin.com/in/ankit-shirsath)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+### 🚀 About Me
+
+- 🔭 I’m currently working at **Broadsy Technologies Pvt Ltd**
+- 🌱 I’m currently learning advanced **ASP.NET Core** and **Cloud Integration**
+- 👯 I’m looking to collaborate on:
+  - **.NET Core open-source projects**
+  - **Transport ERP solutions**
+- 💬 Ask me about:
+  - `C#`, `ASP.NET Core`, `MVC`, `Entity Framework`
+  - `SQL Queries`, `Stored Procedures`, `Views`, `Joins`
+  - `REST APIs`, `AJAX`, `jQuery`, `Bootstrap UI`
+  - Best practices for scalable and clean .NET development
+- 📫 Reach me at:
+  - **Email:** [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)
+  - **LinkedIn:** [linkedin.com/in/ankitshirsath](https://www.linkedin.com/in/ankit-shirsath)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I debug more than I sleep!
+
+---
+
+> 🌓 **Tip:** This profile looks cooler in **dark mode**!
+
+
