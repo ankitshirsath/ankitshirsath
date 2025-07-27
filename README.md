@@ -1,33 +1,50 @@
+<!-- BANNER IMAGE -->
+<p align="center">
+  <img src="banner.png" alt="Ankit Shirsath Banner" width="1000" />
+</p>
+
+<!-- INTRO SECTION -->
 <div align="center">
 
-<p style="background-color:#000000; color:#00FF00; padding:20px; font-family:monospace; font-size:16px;">
-  👋 Hey, I'm <strong>Ankit Shirsath</strong>!<br><br>
-  ✨ Software Developer | .NET Enthusiast | Problem Solver ✨<br><br>
-  Welcome to my GitHub profile!
-</p>
+👋 Hey, I'm <strong>Ankit Shirsath</strong>!  
+✨ Software Developer | .NET Enthusiast | Problem Solver ✨  
+🚀 Welcome to my GitHub profile!
+
+</div>
 
 ---
 
 ### 🚀 About Me
+<div align="center">
 
-- 🔭 I’m currently working at <strong>Broadsy Technologies Pvt Ltd</strong>
-- 🌱 I’m currently learning advanced <strong>ASP.NET Core</strong> and <strong>Cloud Integration</strong>
-- 👯 I’m looking to collaborate on:
-  - <strong>.NET Core open-source projects</strong>
-  - <strong>Transport ERP solutions</strong>
+- 🔭 Currently working at **Broadsy Technologies Pvt Ltd**
+- 🌱 Learning advanced **ASP.NET Core** and **Cloud Integration**
+- 👯 Open to collaborate on:
+  - ✅ .NET Core open-source projects
+  - ✅ Transport ERP solutions
 - 💬 Ask me about:
-  - <code>C#</code>, <code>ASP.NET Core</code>, <code>MVC</code>, <code>Entity Framework</code>
-  - <code>SQL Queries</code>, <code>Stored Procedures</code>, <code>Views</code>, <code>Joins</code>
-  - <code>REST APIs</code>, <code>AJAX</code>, <code>jQuery</code>, <code>Bootstrap UI</code>
-  - Best practices for scalable and clean .NET development
-- 📫 Reach me at:
-  - 📧 <a href="mailto:ankitshirsath01@gmail.com">ankitshirsath01@gmail.com</a>
-  - 🔗 <a href="https://www.linkedin.com/in/ankit-shirsath">linkedin.com/in/ankitshirsath</a>
-- 😄 Pronouns: He/Him
+  - `C#`, `ASP.NET Core`, `MVC`, `Entity Framework`
+  - `SQL`, `Stored Procedures`, `Views`, `Joins`
+  - `REST APIs`, `AJAX`, `jQuery`, `Bootstrap UI`
+  - Clean and scalable .NET architecture
+- 📫 Contact me:
+  - 📧 [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)
+  - 🔗 [linkedin.com/in/ankitshirsath](https://linkedin.com/in/ankitshirsath)
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I debug more than I sleep!
+
+</div>
 
 ---
 
-> 🌓 <strong>Tip:</strong> Best viewed in <strong>Dark Mode</strong> for a terminal vibe 😎
+### 📊 GitHub Stats (Optional)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitshirsath&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitshirsath&theme=tokyonight" height="150"/>
 
 </div>
+
+---
+
+> 🌓 **Best Viewed in Dark Mode** – for full terminal vibes!
