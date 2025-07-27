@@ -27,6 +27,5 @@
 
 ---
 
-> 🌓 **Tip:** This profile looks cooler in **dark mode**!
 
 
