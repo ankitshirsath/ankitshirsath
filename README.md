@@ -25,7 +25,7 @@
   - `REST APIs`, `AJAX`, `jQuery`, `Bootstrap`
 - 📫 Reach Me:
   - 📧 [ankitshirsath01@gmail.com](mailto:ankitshirsath01@gmail.com)
-  - 🔗 [LinkedIn](https://linkedin.com/in/ankitshirsath)
+  - 🔗 [LinkedIn](https://linkedin.com/in/ankit-shirsath)
 - ⚡ Fun fact: I debug more than I sleep!
 
 ---
