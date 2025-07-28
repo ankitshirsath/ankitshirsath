@@ -2,7 +2,6 @@
   <img src="Make your README.png" alt="Ankit Shirsath Banner" width="1000" />
 </p>
 
-[<h2 align="center">👋 Hey, I'm Ankit Shirsath</h2>](url)
 
 <p align="center">
   Software Developer · .NET Enthusiast · Problem Solver  
